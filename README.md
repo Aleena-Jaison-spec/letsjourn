@@ -1,16 +1,33 @@
-# mydiary
+📔 LetsJourn – A Personal Digital Diary App
 
-A new Flutter project.
+LetsJourn is a beautifully designed Flutter-based personal diary application that allows users to capture memories using text, photos, and voice notes. The app focuses on a cute, aesthetic, handwritten diary experience, inspired by physical journals and polaroid memories.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+✍️ Handwritten-style diary entries
 
-A few resources to get you started if this is your first Flutter project:
+📸 Photo memories displayed like polaroids
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎙️ Voice note recording & playback
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🧷 Vertical diary timeline
+
+📅 Automatic date tracking
+
+💾 Local memory storage (extensible to Firebase)
+
+🎨 Soft, paper-like UI with diary aesthetics
+
+🛠️ Tech Stack
+
+Flutter (Dart)
+
+Material UI
+
+Firebase (configured for future cloud backup)
+
+Image Picker
+
+Audio Recording & Playback
+
+Custom Fonts
